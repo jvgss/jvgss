@@ -1,5 +1,5 @@
 <!-- Banner com uma frase inspiradora ou algo que resuma sua missão -->
-<img src="blob:https://giphy.com/2433510c-42f9-4950-adf7-d16484b64d2a" alt="Welcome" width="100%" />
+<img src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Welcome" width="100%" />
 
 <h1 align="center">Olá, eu sou João Vitor Gonçalves! 👋</h1>
 <h3 align="center">Programador Java Full Stack | Apaixonado por Tecnologia e Desenvolvimento de Soluções Inovadoras 🚀</h3>
@@ -64,7 +64,7 @@
 
 ## 📂 Principais Projetos
 
-- 🛠️ [TaskManager](https://github.com/seu_usuario/TaskManager) - Sistema de gerenciamento de tarefas com Java Spring Boot.
+- 🛠️ [TaskManager](https://github.com/seu_usuario/TaskManager) - Sistema de gerenciamento de Ordem de Serviços com Java Spring Boot.
 - 🍽️ [Delícias do Chef](https://github.com/seu_usuario/delicias-do-chef) - Site de restaurante com HTML e CSS.
 - 🎮 [Jogo de RPG](https://github.com/seu_usuario/jogo-de-rpg) - Jogo interativo de RPG usando JavaScript.
 
@@ -73,9 +73,9 @@
 ## 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu_usuario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/seu_usuario" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:seuemail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/joão-vítor-gonçalves-soares-dos-santos-770373160/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/_joaoviiitor/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:jvgss2019@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---
