@@ -6,14 +6,14 @@
 
 ---
 
-## 🌟 Sobre mim
+## 🌟 Sobre Mim
 
 - 🌱 **Atualmente aprendendo:** Spring Boot, React, Node.js, Docker
 - 👨‍💻 **Portfólio:** [Confira meus projetos](https://github.com/jvgss)
 - 💬 **Pergunte-me sobre:** Java, Spring Boot, HTML, CSS, JavaScript
-- 📫 **Como me contatar:** jvgss2019@gmail.com
-- 🎮 **Hobbies:** Além de codar, adoro jogos de RPG e estou criando meu próprio jogo interativo.
-- ⚡ **Fato curioso:** Sou apaixonado por criar histórias e personagens em meus projetos de RPG!
+- 📫 **Como me contatar:** [jvgss2019@gmail.com](mailto:jvgss2019@gmail.com)
+- 🎮 **Hobbies:** Além de codar, sou apaixonado por jogos de RPG e estou criando meu próprio jogo interativo.
+- ⚡ **Fato curioso:** Amo criar histórias e personagens complexos nos meus projetos de RPG!
 
 ---
 
@@ -70,16 +70,22 @@
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Conecte-se Comigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/joão-vítor-gonçalves-soares-dos-santos-770373160/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/_joaoviiitor/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:jvgss2019@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/joão-vítor-gonçalves-soares-dos-santos-770373160/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/_joaoviiitor/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:jvgss2019@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ---
 
 <div align="center">
-  <h3>💻 Um passo de cada vez, em direção a um futuro inovador!</h3>
+  <h3>💻 Um passo de cada vez, rumo a um futuro repleto de inovações!</h3>
 </div>
