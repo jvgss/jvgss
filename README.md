@@ -1,7 +1,7 @@
 <!-- Banner com uma imagem moderna e inspiradora -->
 <!-- Apresentação com GIF animado -->
 <p align="center">
-  <img src="https://github.com/jvgss/jvgss/blob/main/JoovtorGonalves-ezgif.com-optimize.gif?raw=true" alt="Presentation" width="800" />
+  <img src="https://github.com/jvgss/jvgss/blob/main/JoovtorGonalves-ezgif.com-optimize.gif?raw=true" alt="Presentation" width="800" height="400" />
 </p>
 
 
