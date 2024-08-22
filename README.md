@@ -1,10 +1,10 @@
 <!-- Banner com uma imagem moderna e inspiradora -->
 <!-- Apresentação com GIF animado -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDh5MHp1cWJrbGQ0Ynh4c3poZ2xhdGRqbTNpdTFnbmh4ODQ5Z3gxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vixSCdH2SOdLsUb9nt/giphy.gif" alt="Presentation" width="800" />
+  <img src="https://github.com/jvgss/jvgss/blob/main/JoovtorGonalves-ezgif.com-optimize.gif?raw=true" alt="Presentation" width="800" />
 </p>
 
-<h1 align="center" style="color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">Olá, eu sou João Vitor Gonçalves! 👋</h1>
+
 <h3 align="center" style="color: white; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);">Programador Java Full Stack | Apaixonado por Tecnologia e Desenvolvimento de Soluções Inovadoras 🚀</h3>
 
 ---
